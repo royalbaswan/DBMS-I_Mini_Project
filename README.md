@@ -66,3 +66,4 @@ At every time the user will be able to see his/her points and his/her position i
 7. Display the bowlers for Mumbai Indians team. 
 8. How many all-rounders are there in each team, Display the teams with more than 4  all-rounder in descending order. 
  
+**NOTE:** For ER Diagram,Tables, and all of the above information please refer to the DBMS-I Mini Project Info file uploaded in this repository.
