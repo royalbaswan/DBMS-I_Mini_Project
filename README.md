@@ -1,7 +1,7 @@
 # DBMS-I_Mini_Project
 
-                                                                   Pie-in-the-Sky
-                                                                 IPL Match Bidding App 
+                                                     Pie-in-the-Sky
+                                                  IPL Match Bidding App 
  
 Pie-in-the-Sky, is a mobile app that is used for bidding for IPL matches legally. Anyregistered user can bid for any of the IPL matches listed in it. New users or the bidders need to register themselves into the appby providing their mobile phone number, email id and a password.Admin will maintain the match roster and keep updating other details in the system. 
 The app shows the match details which includes the playing team, the venue of the match and current standing of the teams on the points table. It will display the winner at the end of the match and update the team standings in the tournament and bidder points table. System will send updates to the bidders whenever required. It will also generate the bidders' leader board. 
@@ -55,7 +55,7 @@ At every time the user will be able to see his/her points and his/her position i
 4. Clearly understand the structure of each table and relationships among them
 5. Insert / update appropriate rows into relevant tables if you need to get more rows in the output to verify your answers 
  
-Questions – Write SQL queries to get data for following requirements: 
+**Questions** – Write SQL queries to get data for following requirements: 
  
 1. Show the percentage of wins of each bidder in the order of highest to lowest percentage.
 2. Display the number of matches conducted at each stadium with stadium name,city from the database. 
